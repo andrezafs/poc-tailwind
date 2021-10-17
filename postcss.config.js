@@ -5,5 +5,6 @@ module.exports = {
     require("autoprefixer")({
       remove: false,
     }),
+    require("tailwindcss")
   ],
 };
